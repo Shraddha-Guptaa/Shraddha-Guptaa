@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m Shraddha Gupta <br>
-I’m a Full-Stack .NET Developer with hands-on experience in ASP.NET MVC, .NET Core, C#, SQL Server, JavaScript, and Angular.
-I enjoy building real-world applications, learning new technologies, and continuously improving my problem-solving skills.
+I’m a Full-Stack .NET Developer with ~2 years of hands-on experience in designing and developing web applications using ASP.NET MVC, .NET Core, C#, SQL Server, JavaScript, and Angular.
+
+I have experience working on end-to-end features, including authentication, role-based access, database design, and REST APIs. I focus on writing clean, scalable code and building user-friendly applications.
 
 
 # 💻 Tech Stack:
