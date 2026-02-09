@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Shraddha Shrikant Gupta<br>I’m a Software Developer (.NET) with hands-on experience in ASP.NET MVC, C#, SQL Server, and JavaScript.<br>I enjoy learning new technologies, building real-world projects, and improving my problem-solving skills.
+👋 Hi, Hi, I’m Shraddha Gupta 👋
+I’m a Full-Stack .NET Developer with hands-on experience in ASP.NET MVC, .NET Core, C#, SQL Server, JavaScript, and Angular.
+I enjoy building real-world applications, learning new technologies, and continuously improving my problem-solving skills.
 
 
 # 💻 Tech Stack:
